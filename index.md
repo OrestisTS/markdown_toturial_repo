@@ -24,3 +24,8 @@ int main()
 	return 0;	
 }
 ```
+
+
+- [x] Finish this part of the tutorial
+- [ ] Finish the github tutorials
+- [ ] Start working on the docker tutorials
